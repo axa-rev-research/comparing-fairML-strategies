@@ -1,0 +1,7 @@
+;LFR;Adversarial;Equal Odds;All Methods;At Least One Method;
+mean;528.2;747.9;353.8;50.6;1164.0;
+std;30.8;287.5;13.9;27.1;247.6;
+min;473.0;242.0;336.0;4.0;727.0;
+median;523.5;855.5;348.5;53.5;1272.5;
+max;586.0;977.0;373.0;104.0;1396.0;
+Number of instances changed by each method for COMPAS dataset (2639 instances total);;;;;;
