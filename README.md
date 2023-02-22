@@ -20,6 +20,7 @@ Most works on the fairness of machine learning systems focus on the blind optimi
 ├── results <-- folder containing experiment results necessary for further analyses for each analysed dataset, structured in the following way:
 |   ├── name_dataset
 |   |   ├── results
+```
 
 ## Data
 The following datasets are used for the analysis:
