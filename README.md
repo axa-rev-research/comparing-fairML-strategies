@@ -1,4 +1,4 @@
-# When Mitigating Bias is Unfair: A Comprehensive Study on the Impact of Bias Mitigation Algorithms
+# When mitigating bias is unfair: multiplicity and arbitrariness in algorithmic group fairness
 
 This repository contains the codebase for "When mitigating bias is unfair: multiplicity and arbitrariness in algorithmic group fairness" (on [Arxiv](https://arxiv.org/abs/2302.07185)), published in IEEE SaTML 2025.
 
